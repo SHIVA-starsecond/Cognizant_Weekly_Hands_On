@@ -4,27 +4,6 @@
 **Cohort:** Digital Nurture – Full Stack Engineering (Java)  
 **Timeline:** 5-Week Program  
 
-## 📂 Directory Layout
-
-cognizant_nuture/
-├── Week1/
-│   ├── Design_Patterns_and_Principles
-│   │   ├── Exercise1_SingletonPattern
-│   │   │   └── SingletonPatternDemo.java
-│   │   └── Exercise2_FactoryMethodPattern
-│   │       └── FactoryMethodPatternDemo.java
-│   ├── Algorithms_Data_Structure
-│   │   ├── Exercise2_EcommercePlatformSearch
-│   │   │   └── EcommercePlatformSearch.java
-│   │   └── Exercise7_FinancialForecasting
-│   │       └── FinancialForecasting.java
-│   └── PLSQL_Exercises
-│       ├── Exercise1_ControlStructures
-│       │   └── ControlStructures.sql
-│       └── Exercise3_StoredProcedures
-│           └── StoredProcedures.sql
-└── README.md
-
 
 ## 📝 Week 1: Core Assignments
 
